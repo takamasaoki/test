@@ -1,1 +1,28 @@
-ヌ
+プルリクエストのやり方。(githubのアプリケーションが入っている、アカウントが作ってある前提。)
+
+
+ウェブブラウザ上で自分のgithubのアカウントにログインしてください。
+
+yabukilab/mainのcontributors　からどうにかしてShoiwaseのアカウントを探して彼のページに飛んでください。
+
+Repositoriesの欄にtestがあるのでクリック。
+
+ShoIwase/test　の右のほうにあるFORK[数字]ボタンを押しましょう。
+
+その後FORKボタンの右下にある緑色のボタンの、Clone or download　を押して、Open in Desktopを押しましょう。
+
+githubを開く 開かないという選択画面が出てくるのでgithubを開くを選択。
+
+フォルダーの参照が出たらGitHubというフォルダーを選択。
+
+githubのアプリケーションが開いて、左のほうに testが現れます。アプリの操作は一旦休憩です。
+
+メモ帳で何か文字を入力、保存後。ドキュメントの中にあるGithubのtestファイルに作ったファイルを入れます。 これ説明が難しい。
+
+再びgithubのアプリケーションの説明からです。Summaryに題名を入れて、Descriptionに内容を入れましょう。
+
+するとCommit to master　が押せるようになります。押しましょう。右上のSync🔃ボタンも押しておきましょう。
+
+やっとPullrequestです。さらに右上にあるPull　requestボタンを押すと、右から入力できる欄が現れます。
+
+Master はMasterでいいです。Descriptionに文字を入力して Send pull request　が押せます。お疲れ様です。
